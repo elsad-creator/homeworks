@@ -1,0 +1,14 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+#cevre{
+    width:200px;
+    height:200px;
+    border:1px solid black;
+    border-radius: 100%;
+}
+.hamisi{
+    margin-left: 45%;
+    margin-top: 15%;
+}
