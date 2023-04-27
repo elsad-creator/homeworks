@@ -233,6 +233,7 @@ let myArray = [
 
 //! task 1/
 
+// A: ehsen dogrudur
 // myArray.forEach((arr)=>{
 //     document.write("<p> Username : "  + arr.username +"</p>" );
 //     document.write("<p> Email : " + arr.email +"</p>");
